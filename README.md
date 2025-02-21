@@ -16,6 +16,13 @@
 
 This project sought to explore factors within an organization that influence employee attrition by analyzing factors such as job satisfaction, job involvement, renumerations and relationship with management. The aim of this analysis was to identify key drivers that influence employees’ decisions to leave an organization. Insights gained from this analysis can aid in improving retention strategies, ultimately reducing employee turnover rates. 
 
+<img width="994" alt="EA_JS" src="https://github.com/user-attachments/assets/5b339c86-e7c6-4ead-b62c-dd3a46f74274" />
+
+<img width="983" alt="EA_JS_RM" src="https://github.com/user-attachments/assets/22483e76-bf7b-47ab-9d6c-d2dd83b8723f" />
+
+<img width="966" alt="EA_JL_MI" src="https://github.com/user-attachments/assets/39e121dc-ad0d-4c3e-97f3-7d81e8a12eb4" />
+
+
 ### Data Sources 
 
 The dataset used for this analysis is “employee_attrition_dataset_10000.csv”  from kaggle datasets containing demographic, job-related and performance metrics of 10,000 employees that left an organization. [Download here](https://www.kaggle.com/datasets/ziya07/employee-attrition-prediction-dataset)  
