@@ -13,6 +13,7 @@
 - [References](#references)
 
 ### Project Overview
+---
 
 This project sought to explore factors within an organization that influence employee attrition by analyzing factors such as job satisfaction, job involvement, renumerations and relationship with management. The aim of this analysis was to identify key drivers that influence employees’ decisions to leave an organization. Insights gained from this analysis can aid in improving retention strategies, ultimately reducing employee turnover rates. 
 
@@ -24,23 +25,27 @@ This project sought to explore factors within an organization that influence emp
 
 
 ### Data Sources 
+---
 
 The dataset used for this analysis is “employee_attrition_dataset_10000.csv”  from kaggle datasets containing demographic, job-related and performance metrics of 10,000 employees that left an organization. [Download here](https://www.kaggle.com/datasets/ziya07/employee-attrition-prediction-dataset)  
 
 ### Tools
+---
 
 - Excel- Data Cleaning and Formatting
 - Excel- Analysis using Pivot Tables 
 - Power Bi -Data Visualization
 
-### Data Cleaning/Preparations 
+### Data Cleaning/Preparations
+---
 
 The following tasks were performed during the data preparation stage
 - Data loading and Inspection 
 - Handling missing values
 - Data Cleaning and Formatting
 
-### Exploratory Data Analysis 
+### Exploratory Data Analysis
+---
 
 This analysis involved exploring some factors in an organization that influence employee attrition and answer key questions such as: 
 - What are some of the likely factors within an organization that result in employee attrition? 
@@ -48,7 +53,8 @@ This analysis involved exploring some factors in an organization that influence 
 - Can the relationship with a manager and engagement in the organization mitigate some factors that lead to employee attrition? 
 - How does renumeration impact employee attrition?
 
-### Data Analysis 
+### Data Analysis
+---
 
 Formulae such as IFS function in Excel were employed to categorize monthly income and also provide explanation for number rating of some factors that influence attrition. 
 Example of Formulae used were;
@@ -60,6 +66,7 @@ Example of Formulae used were;
 Job Satisfaction, Relationship with Manager and Job Involvement rated on an ordinal scale were translated into descriptive terms in Excel in order to create dashboards in Power bi. Monthly Income was categorized into high, medium and low. (Low- below £7,000, Medium £7,000- £14,000, High – above £14000) in order to analyze the relationship between renumerations and employee attrition. Pivot tables were then used to explore the relationships between the various factors and employee attrition. 
 
 ### Results/Findings 
+---
 
 The results of the analysis were summarized as follows: 
 
@@ -69,7 +76,8 @@ The results of the analysis were summarized as follows:
 4. A careful balance between job involvement, opportunity for career progression and job satisfaction is required to retain employees.
 5. Employees with considerably good renumeration are likely to leave an organization if other factors such as career progression and recognition are absent in the organization.
 
-### Recommendations  
+### Recommendations
+---
 
 Based on the analysis, the following actions are recommended:
 - Strategies that address job satisfactions such as career growth and work-life balance should be implemented. Additionally, interviews and surveys should be conducted to unearth issues encountered by employees. 
