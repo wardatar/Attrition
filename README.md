@@ -87,10 +87,12 @@ Based on the analysis, the following actions are recommended:
 - Introduce career development opportunities for low and medium earning employees to provide the opportunity for promotions and earning high monthly income as well as some additional benefits that would motivate employees to stay.
 
 ### Limitations 
+---
 
 This analysis focused on quantitatively analyzing factors that influence attrition. Other emotional and psychological factors that lead to attrition could not be addressed in this analysis. 
 
 ### References 
+---
 
 1. McLeod, S. A., 2017. Ordinal scale. Simply Psychology. [Available at](https://www.simplypsychology.org/ordinal-scale.html)
 2. McCollege, 2025. Cleaning the data: The crucial step that powers data science insights. [Available at](https://mccollege.edu/data-science/about-the-career-data-science/cleaning-the-data-the-crucial-step-that-powers-data-science-insights/) 
