@@ -94,5 +94,5 @@ This analysis focused on quantitatively analyzing factors that influence attriti
 ### References 
 ---
 
-1. McLeod, S. A., 2017. Ordinal scale. Simply Psychology. [Available at](https://www.simplypsychology.org/ordinal-scale.html)
-2. McCollege, 2025. Cleaning the data: The crucial step that powers data science insights. [Available at](https://mccollege.edu/data-science/about-the-career-data-science/cleaning-the-data-the-crucial-step-that-powers-data-science-insights/) 
+1. McCollege, 2025. Cleaning the data: The crucial step that powers data science insights. [Available at](https://mccollege.edu/data-science/about-the-career-data-science/cleaning-the-data-the-crucial-step-that-powers-data-science-insights/) 
+2. McLeod, S. A., 2017. Ordinal scale. Simply Psychology. [Available at](https://www.simplypsychology.org/ordinal-scale.html)
