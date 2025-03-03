@@ -41,7 +41,6 @@ The dataset used for this analysis is “employee_attrition_dataset_10000.csv”
 
 The following tasks were performed during the data preparation stage
 - Data loading and Inspection 
-- Handling missing values
 - Data Cleaning and Formatting
 
 ### Exploratory Data Analysis
