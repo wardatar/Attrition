@@ -17,11 +17,11 @@
 
 This project sought to explore factors within an organization that influence employee attrition by analyzing factors such as job satisfaction, job involvement, renumerations and relationship with management. The aim of this analysis was to identify key drivers that influence employees’ decisions to leave an organization. Insights gained from this analysis can aid in improving retention strategies, ultimately reducing employee turnover rates. 
 
-<img width="994" alt="EA_JS" src="https://github.com/user-attachments/assets/5b339c86-e7c6-4ead-b62c-dd3a46f74274" />
+<img width="1294" alt="JS" src="https://github.com/user-attachments/assets/8efdcb03-eb55-463a-9c8f-e4c07bbd1cbd" />
 
-<img width="983" alt="EA_JS_RM" src="https://github.com/user-attachments/assets/22483e76-bf7b-47ab-9d6c-d2dd83b8723f" />
+<img width="1280" alt="MR_JS" src="https://github.com/user-attachments/assets/55a7addc-7087-461c-8ce0-4bc29eb6a34e" />
 
-<img width="966" alt="EA_JL_MI" src="https://github.com/user-attachments/assets/39e121dc-ad0d-4c3e-97f3-7d81e8a12eb4" />
+<img width="1294" alt="JS" src="https://github.com/user-attachments/assets/72d1b629-1a1e-4255-ba2d-caf79fd59255" />
 
 
 ### Data Sources 
